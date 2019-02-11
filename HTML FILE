@@ -45,5 +45,34 @@ B.Tech Coursers
 <th>GROUP2</th></tr>
 <tr><td>IP batch</td>
 <td> Non ip batch</td></tr>
+
+<html>
+ <head>
+<style type = "text/css"media ="all">
+body{
+background-color:linen;
+}
+h1{
+color:maroon;
+text-align:center;
+}
+p{
+color:maroon;
+margin-left:40px;
+}
+</style>
+
+<html>
+ <head>
+   <h1>this is a heading</h1>
+  <p>this is a paragraph</p>
+ <h1>this taken global style</h1>
+
+<h1 style = "color:#36;">this taken inline css style</h1>
+
+
+
+	</body>
+	</html>
 	</body>
 			</html>
