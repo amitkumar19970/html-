@@ -46,16 +46,6 @@ B.Tech Coursers
 <tr><td>IP batch</td>
 <td> Non ip batch</td></tr>
 
-<html>
- <head>
-<style type = "text/css"media ="all">
-body{
-background-color:linen;
-}
-h1{
-color:maroon;
-text-align:center;
-}
 p{
 color:maroon;
 margin-left:40px;
