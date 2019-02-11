@@ -1,0 +1,49 @@
+<html>
+ <head>
+   <title>home page </title>
+      </head>
+     <body>
+<marquee direction = "left" bgcolor=" green"  "width:800px;height:80px;"> <b> <font size ="6"> <align ="right">PRESIDENCY UNIVERSITY</b> </font></marquee>	
+B.Tech Coursers
+<ul>
+<li>Mechanincal</li>
+<li>Civil</li>
+<li><mark>Computer Science</mark></li>
+<ol>
+	<li>CSE</li>
+	<li>ISE</li>
+	<li>COM</li>
+</ol>
+<li>Electronics</li>
+<li>Petroleum</li>
+<li>Electrical</li>
+</div>
+<div style="width:625;height:250;background-color:yellow;float:left">
+<center><u>Welcome to CSE dept</u></center><br>
+<center>Dept of cse has the bacth of students</center>
+<br>
+<ol type ="i">
+<li>6th sem</li>
+<li>5th sem</li>
+<li>4th sem</li>
+</div>
+<h4 style="color:blue;"> Internet Techhnology course</h4>
+<br>
+<p title="hello"> this Course introduction student to basic web page design using HTML And CSS </p>
+
+<a href="tables.html">Download Course handout</a><br><br><br><br><br>
+
+<center> <h5 style="background-color:green"><i>@Presidency university itgalpura Rajanakunte Banglore</i></h5></center>
+<hr>
+<center><img src="/home/itsec4/2016cse246/logo.png" width="500" height="100" >
+	<center><h4>Presidency University</h4></center><hr>
+<table border=3 cellspacing=3 cellpadding=10 align="center" bordercolor="red">
+
+<caption align=top>8th SEM</caption>
+
+<tr bgcolor="green"><th>GROUP1</th>
+<th>GROUP2</th></tr>
+<tr><td>IP batch</td>
+<td> Non ip batch</td></tr>
+	</body>
+			</html>
